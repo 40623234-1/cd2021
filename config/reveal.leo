@@ -25,7 +25,11 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210318005127.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210318005251.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210318005302.1"><vh>slide 4-3</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -208,17 +212,15 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-        &lt;img src="https://40623234-1.github.io/cd2021/images/construction-crane-isolated-on-white-260nw-1267242409.jpg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;協同產品設計W1~W3&lt;/h3&gt;
+&lt;a&gt;&lt;img src="https://40623234-1.github.io/cd2021/images/construction-crane-isolated-on-white-260nw-1267242409.jpg" width="600" height="300"&gt;&lt;/a&gt;
+    &lt;h3&gt;分組協同產品設計&lt;/h3&gt;
+    &lt;p&gt;Week1~Week3&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;Week1&lt;/h2&gt;
+&lt;p&gt;用老師的網頁模板建立github專案&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -229,34 +231,28 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+@others
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;wee2&lt;/h2&gt;
+    &lt;p&gt;1.討論協同產品題目&lt;/p&gt;
+    &lt;p&gt;2.繪製零件&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;1.討論協同產品題目&lt;/h2&gt;
+    &lt;p&gt;題目:高空吊車&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;h2&gt;2.繪製零件&lt;/h2&gt;
+    &lt;p&gt;直接在Coppeliasim畫&lt;/p&gt;
+    &lt;a&gt;&lt;img src="https://40623234-1.github.io/cd2021/images/%E7%B5%84%E5%90%88.PNG" width="500" height="300"&gt;&lt;/a&gt;
     &lt;br&gt;
     &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
+        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="50" height="50" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
     &lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
@@ -643,6 +639,25 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318005127.1">&lt;section&gt;
+    &lt;h2&gt;week3&lt;/h2&gt;
+    &lt;p&gt;
+       1.模擬路徑
+    &lt;/p&gt;
+    &lt;p&gt;
+        2. 修改錯誤
+   &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318005251.1">&lt;section&gt;
+    &lt;h2&gt;1.模擬路徑&lt;/h2&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a7Bi39n4IZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20210318005302.1">&lt;section&gt;
+    &lt;h2&gt;2. 修改錯誤&lt;/h2&gt;
+    &lt;p&gt;
+   
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
