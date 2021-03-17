@@ -4,84 +4,84 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2021-03-18T03:12:17-00:00</lastmod>
+<loc>https://github.com/40623234-1/stage1-ag3/</loc>
+<lastmod>2021-03-18T05:17:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2021-03-18T03:12:17-00:00</lastmod>
+<loc>https://github.com/40623234-1/stage1-ag3/archives.html</loc>
+<lastmod>2021-03-18T05:17:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2021-03-18T03:12:17-00:00</lastmod>
+<loc>https://github.com/40623234-1/stage1-ag3/tags.html</loc>
+<lastmod>2021-03-18T05:17:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2021-03-18T03:12:17-00:00</lastmod>
+<loc>https://github.com/40623234-1/stage1-ag3/categories.html</loc>
+<lastmod>2021-03-18T05:17:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/pages/about/</loc>
 <lastmod>2021-03-11T17:08:18+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20210318-Fall-Intro-to-computer-programming.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/20210318-Fall-Intro-to-computer-programming.html</loc>
 <lastmod>2021-03-18T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20210311-Fall-Intro-to-computer-programming.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/20210311-Fall-Intro-to-computer-programming.html</loc>
 <lastmod>2021-03-11T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2021-Fall-Intro-to-computer-programming.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/2021-Fall-Intro-to-computer-programming.html</loc>
 <lastmod>2021-03-04T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./20210225-Fall-Intro-to-computer-programming.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/20210225-Fall-Intro-to-computer-programming.html</loc>
 <lastmod>2021-02-25T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/misc.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/category/misc.html</loc>
 <lastmod>2021-03-18T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/2021fallcp.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/tag/2021fallcp.html</loc>
 <lastmod>2021-03-18T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40623234.html</loc>
+<loc>https://github.com/40623234-1/stage1-ag3/author/40623234.html</loc>
 <lastmod>2021-03-18T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
